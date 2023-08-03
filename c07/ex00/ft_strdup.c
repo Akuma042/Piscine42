@@ -23,6 +23,7 @@ int	ft_strlen(char *str)
 		i++;
 	}
 	return (i);
+	
 }
 
 char	*ft_strdup(char *src)
